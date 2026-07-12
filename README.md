@@ -1,5 +1,4 @@
-# Fitness Tracker – Calories Burned Prediction
-
+# Fitness Tracker Using Python
 ## 📌 Project Overview
 
 The **Fitness Tracker** project is a Machine Learning application that predicts the number of **calories burned** during physical activity based on various user attributes such as age, gender, height, weight, exercise duration, heart rate, and body temperature.
